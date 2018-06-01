@@ -1,0 +1,104 @@
+2018-05-21 00:11:26 ERROR App:92 - main(String[])
+java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at com.spring.stack.demo_stack.App.main(App.java:52)
+2018-05-21 00:12:23 DEBUG App:38 - main(String[]) - start
+2018-05-21 00:12:33 DEBUG App:20 - menu() - start
+2018-05-21 00:12:33 DEBUG App:32 - menu() - end
+2018-05-21 00:13:57 DEBUG App:33 - main(String[]) - start
+2018-05-21 00:13:58 INFO  App:38 - please enter size of stack
+2018-05-21 00:19:55 DEBUG App:33 - main(String[]) - start
+2018-05-21 00:20:07 DEBUG Stack:31 - push(int) - start
+2018-05-21 00:20:07 DEBUG Stack:39 - push(int) - {}element pushed
+2018-05-21 00:20:07 DEBUG Stack:45 - push(int) - end
+2018-05-21 00:23:46 DEBUG App:33 - main(String[]) - start
+2018-05-21 00:23:57 DEBUG Stack:31 - push(int) - start
+2018-05-21 00:23:57 DEBUG Stack:39 - push(int) - {}element pushed
+2018-05-21 00:23:57 DEBUG Stack:45 - push(int) - end
+2018-05-21 02:18:50 DEBUG App:56 - main(String[]) - start
+2018-05-21 02:18:50 DEBUG App:62 - please enter size of stack
+2018-05-21 02:19:00 DEBUG App:56 - main(String[]) - start
+2018-05-21 02:19:01 DEBUG App:62 - please enter size of stack
+2018-05-21 02:19:32 DEBUG App:56 - main(String[]) - start
+2018-05-21 02:19:33 DEBUG App:62 - please enter size of stack
+2018-05-21 02:19:39 DEBUG App:70 - main(String[]) - {}
+2018-05-21 02:19:39 DEBUG App:26 - 1/push
+2018-05-21 02:19:39 DEBUG App:29 - 2/pop
+2018-05-21 02:19:39 DEBUG App:32 - 3/push at index
+2018-05-21 02:19:39 DEBUG App:35 - 4/pop at index
+2018-05-21 02:19:39 DEBUG App:38 - 5/rearrange
+2018-05-21 02:19:39 DEBUG App:41 - 6/display
+2018-05-21 02:19:39 DEBUG App:44 - 7/exit
+2018-05-21 02:19:39 DEBUG App:74 - please enter your choice
+2018-05-21 02:19:41 DEBUG App:79 - enter element to be pushed
+2018-05-21 02:19:44 DEBUG Stack:52 - push(int) - start
+2018-05-21 02:19:44 DEBUG Stack:60 - push(int) - {}element pushed
+2018-05-21 02:19:44 DEBUG Stack:66 - push(int) - end
+2018-05-21 02:19:44 DEBUG App:123 - do you want to continue Y or N ?
+2018-05-21 02:20:05 DEBUG App:70 - main(String[]) - {}
+2018-05-21 02:20:05 DEBUG App:26 - 1/push
+2018-05-21 02:20:05 DEBUG App:29 - 2/pop
+2018-05-21 02:20:05 DEBUG App:32 - 3/push at index
+2018-05-21 02:20:05 DEBUG App:35 - 4/pop at index
+2018-05-21 02:20:05 DEBUG App:38 - 5/rearrange
+2018-05-21 02:20:05 DEBUG App:41 - 6/display
+2018-05-21 02:20:05 DEBUG App:44 - 7/exit
+2018-05-21 02:20:05 DEBUG App:74 - please enter your choice
+2018-05-21 02:20:09 DEBUG Stack:178 - display() - start
+2018-05-21 02:20:09 DEBUG Stack:182 - printing stack ...
+2018-05-21 02:20:09 DEBUG Stack:191 - 2 
+2018-05-21 02:20:09 DEBUG Stack:195 - display() - {}
+2018-05-21 02:20:09 DEBUG Stack:200 - display() - end
+2018-05-21 02:20:09 DEBUG App:123 - do you want to continue Y or N ?
+2018-05-21 03:53:00 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:00 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:12 DEBUG App:71 - main(String[]) - {}
+2018-05-21 03:53:12 DEBUG App:26 - 1/push
+2018-05-21 03:53:12 DEBUG App:29 - 2/pop
+2018-05-21 03:53:12 DEBUG App:32 - 3/push at index
+2018-05-21 03:53:12 DEBUG App:35 - 4/pop at index
+2018-05-21 03:53:12 DEBUG App:38 - 5/rearrange
+2018-05-21 03:53:12 DEBUG App:41 - 6/display
+2018-05-21 03:53:12 DEBUG App:44 - 7/exit
+2018-05-21 03:53:12 DEBUG App:75 - please enter your choice
+2018-05-21 03:53:17 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:17 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:18 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:18 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:20 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:20 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:22 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:22 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:22 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:22 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:24 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:24 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:25 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:25 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:36 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:36 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:52 DEBUG App:56 - main(String[]) - start
+2018-05-21 03:53:52 DEBUG App:62 - please enter size of stack
+2018-05-21 03:53:57 ERROR App:135 - main(String[])
+java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at com.spring.stack.demo_stack.App.main(App.java:66)
+2018-05-21 03:53:57 DEBUG App:138 - enter valid input value
+2018-05-21 03:53:57 DEBUG App:145 - main(String[]) - end
+2018-05-21 04:17:33 DEBUG App:56 - main(String[]) - start
+2018-05-21 04:17:33 DEBUG App:62 - please enter size of stack
+2018-05-21 04:17:38 ERROR App:135 - main(String[])
+java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at com.spring.stack.demo_stack.App.main(App.java:66)
+2018-05-21 04:17:38 DEBUG App:138 - enter valid input value
+2018-05-21 04:17:38 DEBUG App:145 - main(String[]) - end
